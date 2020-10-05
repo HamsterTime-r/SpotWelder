@@ -1,0 +1,21 @@
+//PORTC FOR PINS!!!
+#define LCD_DDR DDRC //You can use DDRB,DDRD if this not i2c
+#define LCD_PORT PORTC //You can use PORTB,PORTD if this not i2c
+
+#include <lcd1602_4b.h>	//oneBYone (6pins)
+#include <lcd1602.h> //I2C (2pins)
+#include <lcd1602_74hc595.h>//74HC595(3pins)
+
+#include <rus_chars.h> //for russian chars in memory
+
+lcd_init(adress_i2c); i2c pin4->SDA, pin5->SCL
+lcd_init(pin0,pin1,pin2,pin3); oneBYone pin0->d4,pin1->d5,pin2->d6,pin3->d7, pin4->RS, pin5->E
+lcd_init(pin0,pin4,pin5); //74HC595 pin0->RCLK,pin4->SER,pin5->SRCLK
+
+clear_lcd(); //clear lcd
+load_char_to_CGRAM(uint8_t addr_ram, uint8_t char_byte_array[]); //custom char to lcd memory
+set_cursor(uint8_t col, uint8_t row);//set cursor
+return_home()//set cursor to (0,0)
+print_str(const char *str); //print chars array
+print_char(uint8_t char_data); //print one char
+
