@@ -90,7 +90,7 @@ AFTER_FIRE 60000    // Пауза после прожига, чтобы случ
 О: Это архив. Можно открыть стандартными средствами Windows, но думаю у всех на компьютере установлен WinRAR, архив нужно правой кнопкой и извлечь.</p>
 <p>В: Я совсем новичок! Что мне делать с Ардуиной, где взять все программы?<br>
 О: Читай и смотри видос от AlexGyver <a href="http://alexgyver.ru/arduino-first/" rel="nofollow">http://alexgyver.ru/arduino-first/</a></p>
-<p>В: Вылетает ошибка загрузки / компиляции!
+<p>В: Вылетает ошибка загрузки / компиляции!<br>
 О: Читай тут: <a href="https://alexgyver.ru/arduino-first/#step-5" rel="nofollow">https://alexgyver.ru/arduino-first/#step-5</a></p>
 <h3><a id="user-content-вопросы-по-этому-проекту" class="anchor" aria-hidden="true" href="#вопросы-по-этому-проекту"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Вопросы по этому проекту</h3>
 <p><a id="user-content-chapter-6"></a></p>
