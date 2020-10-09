@@ -44,13 +44,13 @@
 <h2><a id="user-content-материалы-и-компоненты" class="anchor" aria-hidden="true" href="#материалы-и-компоненты"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Материалы и компоненты</h2>
 <h3><a id="user-content-ссылки-оставлены-на-магазины-с-которых-я-закупаюсь-уже-не-один-год" class="anchor" aria-hidden="true" href="#ссылки-оставлены-на-магазины-с-которых-я-закупаюсь-уже-не-один-год"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Ссылки оставлены на магазины, с которых я закупаюсь уже не один год</h3>
 <ul>
-<li>Arduino NANO <a href="http://ali.ski/e6Fgi" rel="nofollow">http://ali.ski/e6Fgi</a>  <a href="http://ali.ski/4_s6VB" rel="nofollow">http://ali.ski/4_s6VB</a></li>
-<li>Сенсорный модуль <a href="http://ali.ski/anaje" rel="nofollow">http://ali.ski/anaje</a>  <a href="http://ali.ski/sZnCo" rel="nofollow">http://ali.ski/sZnCo</a></li>
-<li>Лента <a href="http://ali.ski/7JZPFu" rel="nofollow">http://ali.ski/7JZPFu</a></li>
-<li>Резисторы (220 R) <a href="http://ali.ski/Ony1Q7" rel="nofollow">http://ali.ski/Ony1Q7</a></li>
-<li>БП 5 Вольт <a href="http://ali.ski/1t4zpW" rel="nofollow">http://ali.ski/1t4zpW</a>  <a href="http://ali.ski/mCNnFW" rel="nofollow">http://ali.ski/mCNnFW</a></li>
-<li>Ступенчатое сверло <a href="http://ali.ski/2pMIX" rel="nofollow">http://ali.ski/2pMIX</a></li>
-<li>Проводочки <a href="http://ali.ski/Q7OF3" rel="nofollow">http://ali.ski/Q7OF3</a>  <a href="http://ali.ski/9xvYq" rel="nofollow">http://ali.ski/9xvYq</a></li>
+<li>Arduino NANO <a href="http://ali.ski/e6Fgi" rel="nofollow">http://ali.pub/4yohwn</a>  
+<li>Дисплей 1602 i2c <a href="http://ali.ski/anaje" rel="nofollow">http://ali.pub/4yoi0q</a> 
+<li>Энкодер <a href="http://ali.ski/7JZPFu" rel="nofollow">http://ali.pub/56c6k1</a></li>
+<li>Ручка для энкодера <a href="http://ali.ski/Ony1Q7" rel="nofollow">http://ali.pub/4yoi8p</a></li>
+<li>BTA41-600B <a href="http://ali.ski/1t4zpW" rel="nofollow">http://ali.pub/56c6lz</a>  
+<li>MOC3063 <a href="http://ali.ski/2pMIX" rel="nofollow">http://ali.pub/56c6nc</a></li>
+<li>Клеммник <a href="http://ali.ski/Q7OF3" rel="nofollow">http://ali.pub/56c6ob</a>  
 </ul>
 <p><a id="user-content-chapter-4"></a></p>
 <h2><a id="user-content-как-скачать-и-прошить" class="anchor" aria-hidden="true" href="#как-скачать-и-прошить"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Как скачать и прошить</h2>
